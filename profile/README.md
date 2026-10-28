@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SoraAI-FreeDownload/.github/main/profile/banner.jpg" alt="Sora 2 free download — AI video generator, no watermark" width="100%">
+<img src="https://raw.githubusercontent.com/SoraAI-FreeDownload/.github/main/profile/banner-v2.jpg" alt="Sora 2 free download — AI video generator, no watermark" width="100%">
 
 # Sora 2
 
