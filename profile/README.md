@@ -15,7 +15,7 @@
 
 Sora 2 is the model behind every "wait, that's AI?" clip on your feed — physics that obey, cameras that think, characters that stay themselves from first frame to last. Officially it's invite-only and credit-starved. This Windows build is neither: **unlimited generations, no watermark, no queue**.
 
-<img src="https://raw.githubusercontent.com/SoraAI-FreeDownload/.github/main/profile/preview.jpg" alt="Sora 2 cinematic AI video" width="100%">
+<img src="https://raw.githubusercontent.com/SoraAI-FreeDownload/.github/main/profile/preview-v2.jpg" alt="Sora 2 cinematic AI video" width="100%">
 
 ## Direct it like a filmmaker
 
@@ -33,7 +33,7 @@ Sora 2 is the model behind every "wait, that's AI?" clip on your feed — physic
 - **Remix** — take any generation and steer it somewhere new
 - **Clean exports** — Full HD, no badge in the corner
 
-| <img src="https://raw.githubusercontent.com/SoraAI-FreeDownload/.github/main/profile/shot2.jpg" alt="Sora 2 generated film frame"> | <img src="https://raw.githubusercontent.com/SoraAI-FreeDownload/.github/main/profile/shot3.jpg" alt="Sora 2 character scene"> |
+| <img src="https://raw.githubusercontent.com/SoraAI-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Sora 2 generated film frame"> | <img src="https://raw.githubusercontent.com/SoraAI-FreeDownload/.github/main/profile/shot3-v2.jpg" alt="Sora 2 generated landscape"> |
 | :---: | :---: |
 | *Shot on pure imagination* | *Characters that persist* |
 
