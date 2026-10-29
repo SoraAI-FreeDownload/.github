@@ -33,8 +33,6 @@ Sora 2 is the model behind every "wait, that's AI?" clip on your feed — physic
 - **Remix** — take any generation and steer it somewhere new
 - **Clean exports** — Full HD, no badge in the corner
 
-| :---: | :---: |
-
 <div align="center">
 
 ## Download
